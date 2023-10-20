@@ -26,7 +26,7 @@ public class LoginController {
         ArrayList<String> arrayList = new ArrayList<>();
         arrayList.add("苹果");
         arrayList.add("香蕉");
-        arrayList.add("西瓜");
+        arrayList.add("芒果");
         return arrayList;
     }
 }
