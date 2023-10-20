@@ -27,6 +27,7 @@ public class LoginController {
         arrayList.add("苹果");
         arrayList.add("香蕉");
         arrayList.add("芒果");
+        arrayList.add("芒果");
         return arrayList;
     }
 }
